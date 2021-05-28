@@ -14,31 +14,31 @@
 
 #### Windows
 
-![/assets/windows.png](playing all songs in windows)
+![playing all songs in windows](assets/windows.png)
 
 #### macOS / Linux
 
-![/assets/linux.png](playing all songs in macOS / linux)
+![playing all songs in macOS / linux](assets/linux.png)
 
 ### Playing a single song in a directory
 
 #### Windows
 
-![/assets/single_windows.png](playing single song in windows)
+![playing single song in windows](assets/single_windows.png)
 
 #### macOS / Linux
 
-![/assets/single_linux.png](playing single song in macOS / linux)
+![playing single song in macOS / linux](assets/single_linux.png)
 
 ------------
 
 ## Usage
 
-![/assets/usage.png](usage)
+![usage](assets/usage.png)
 
 ### Playback controls
 
-![/assets/usage_playback.png](playback usage)
+![playback usage](assets/usage_playback.png)
 
 ------------
 
