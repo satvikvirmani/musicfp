@@ -1,4 +1,5 @@
 # musicfp
+**A terminal based media player for programmers**
 
 ------------
 
@@ -12,33 +13,33 @@
 
 ### Playing all songs in a direstory
 
-#### Windows
+> #### Windows
 
-![playing all songs in windows](assets/windows.png)
+> ![playing all songs in windows](assets/windows.png)
 
-#### macOS / Linux
+> #### macOS / Linux
 
-![playing all songs in macOS / linux](assets/linux.png)
+> ![playing all songs in macOS / linux](assets/linux.png)
 
 ### Playing a single song in a directory
 
-#### Windows
+> #### Windows
 
-![playing single song in windows](assets/single_windows.png)
+> ![playing single song in windows](assets/single_windows.png)
 
-#### macOS / Linux
+> #### macOS / Linux
 
-![playing single song in macOS / linux](assets/single_linux.png)
+> ![playing single song in macOS / linux](assets/single_linux.png)
 
 ------------
 
 ## Usage
 
-![usage](assets/usage.png)
+> ![usage](assets/usage.png)
 
 ### Playback controls
 
-![playback usage](assets/usage_playback.png)
+> ![playback usage](assets/usage_playback.png)
 
 ------------
 
