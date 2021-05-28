@@ -45,6 +45,4 @@
 
 ## Contributing
 
-Contributions, issues and feature requests are welcome!
-Feel free to check [Bug Tracker](https://github.com/SatvikVirmani/musicfp/issues "issues") page.
-To submit improvements or features check [Pull Requests](https://github.com/SatvikVirmani/musicfp/pulls "Pull Requests")
+Contributions, issues and feature requests are welcome!. Feel free to check [Bug Tracker](https://github.com/SatvikVirmani/musicfp/issues "issues") page. To submit improvements or features check [Pull Requests](https://github.com/SatvikVirmani/musicfp/pulls "Pull Requests")
