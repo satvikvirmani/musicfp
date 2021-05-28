@@ -5,7 +5,7 @@
 
 ## Install
 
-![installing](assets/install.png)
+![installing](https://github.com/SatvikVirmani/musicfp/blob/main/assets/install.png?raw=true)
 
 ------------
 
@@ -15,31 +15,31 @@
 
 > #### Windows
 
-> ![playing all songs in windows](assets/windows.png)
+> ![playing all songs in windows](https://github.com/SatvikVirmani/musicfp/blob/main/assets/windows.png?raw=true)
 
 > #### macOS / Linux
 
-> ![playing all songs in macOS / linux](assets/linux.png)
+> ![playing all songs in macOS / linux](https://github.com/SatvikVirmani/musicfp/blob/main/assets/linux.png?raw=true)
 
 ### Playing a single song in a directory
 
 > #### Windows
 
-> ![playing single song in windows](assets/single_windows.png)
+> ![playing single song in windows](https://github.com/SatvikVirmani/musicfp/blob/main/assets/single_windows.png?raw=true)
 
 > #### macOS / Linux
 
-> ![playing single song in macOS / linux](assets/single_linux.png)
+> ![playing single song in macOS / linux](https://github.com/SatvikVirmani/musicfp/blob/main/assets/single_linux.png?raw=true)
 
 ------------
 
 ## Usage
 
-> ![usage](assets/usage.png)
+> ![usage](https://github.com/SatvikVirmani/musicfp/blob/main/assets/usage.png?raw=true)
 
 ### Playback controls
 
-> ![playback usage](assets/usage_playback.png)
+> ![playback usage](https://github.com/SatvikVirmani/musicfp/blob/main/assets/usage_playback.png?raw=true)
 
 ------------
 

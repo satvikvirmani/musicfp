@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="musicfp",
-    version="0.0.2",
+    version="0.0.1",
     author="Satvik Virmani",
     author_email="virmanisatvik01@gmail.com",
     description="A terminal based media player for programmers",
