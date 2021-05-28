@@ -4,7 +4,7 @@
 
 ## Install
 
-![/assets/install.png](installing)
+![..\assets\install.png](installing)
 
 ------------
 
