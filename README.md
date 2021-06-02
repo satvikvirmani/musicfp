@@ -5,8 +5,14 @@
 
 ## Install
 
-![installing](https://github.com/SatvikVirmani/musicfp/blob/main/assets/install.png?raw=true)
+> #### Windows
 
+> ![installing in windows](https://github.com/SatvikVirmani/musicfp/blob/main/assets/install_windows.png?raw=true)
+
+> #### macOS / Linux
+
+> ![installing in linux / macos](https://github.com/SatvikVirmani/musicfp/blob/main/assets/install_linux.png?raw=true) <br />
+> `sudo` is neccessary for Linux / macOS users
 ------------
 
 ## Examples
